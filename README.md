@@ -6,3 +6,7 @@
 
 ## Data:
 For this study, all the data used for training is saved in Appendix A which can be found at https://doi.org/10.1016/j.jmapro.2024.01.083.
+
+## Bayesian optimization of the uploaded dataset:
+![image](https://github.com/Barry-ZhangUofT/Parameter-optimization/assets/65192706/0e090ca4-939f-4c2f-a595-d74e4b72f293)
+
